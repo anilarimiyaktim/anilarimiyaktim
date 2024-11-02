@@ -1,6 +1,6 @@
 <h1 align="center">🌟 elveen on all platforms 🌟</h1>
 
-<p align="center"> 📩 **elveen1337@proton.me** </p>
+- 📩 **elveen1337@proton.me**
 
 <h3 align="center">socials:</h3> 
 <p align="center">
