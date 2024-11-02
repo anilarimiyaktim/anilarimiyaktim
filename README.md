@@ -6,7 +6,7 @@
 <p align="center">
 <a href="https://discord.gg/barakah" target="blank"><img align="center" src="https://img.shields.io/badge/barakah-black?logo=adidas" alt="elveen owns you" /></a>
 </p>
-https://img.shields.io/badge/elveen13-black?logo=instagram
+
 <p align="center">
 <a href="https://www.instagram.com/elveen13/" target="blank"><img align="center" src="https://img.shields.io/badge/elveen13-black?logo=instagram" alt="elveen owns you" /></a>
 </p>
