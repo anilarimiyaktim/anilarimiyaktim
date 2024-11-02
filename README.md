@@ -4,7 +4,7 @@
 
 <h3 align="left">brkh</h3> 
 <p align="left">
-<a href="https://discord.gg/barakah" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="elveen owns you" /></a>
+<a href="https://discord.gg/barakah" target="blank"><img align="center" src="https://img.shields.io/badge/discord.gg-barakah-pink" alt="elveen owns you" /></a>
 </p>
 
 <!--
