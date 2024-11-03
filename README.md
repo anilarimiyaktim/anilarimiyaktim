@@ -1,4 +1,4 @@
-<h1 align="center">🌟 elveen on all platforms 🌟</h1>
+<h1 align="center">we don't know much about them, but we're sure elveen is great.</h1>
 
 <h3 align="center">📩 elveen1337@proton.me 📩</h3>
 
