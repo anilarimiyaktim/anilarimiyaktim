@@ -4,11 +4,15 @@
 
 <h3 align="center">socials:</h3> 
 <p align="center">
-<a href="https://discord.gg/barakah" target="blank"><img align="center" src="https://img.shields.io/badge/barakah-black?logo=adidas" alt="elveen owns you" /></a>
+<a href="https://www.instagram.com/elveen13/" target="blank"><img align="center" src="https://img.shields.io/badge/elveen13-black?logo=instagram" alt="elveen owns you" /></a>
 </p>
 
 <p align="center">
-<a href="https://www.instagram.com/elveen13/" target="blank"><img align="center" src="https://img.shields.io/badge/elveen13-black?logo=instagram" alt="elveen owns you" /></a>
+<a href="https://discord.gg/akrep" target="blank"><img align="center" src="https://img.shields.io/badge/akrep-black?logo=PayPal" alt="elveen owns you" /></a>
+</p>
+
+<p align="center">
+<a href="https://discord.gg/barakah" target="blank"><img align="center" src="https://img.shields.io/badge/barakah-black?logo=adidas" alt="elveen owns you" /></a>
 </p>
 
 <!--
