@@ -7,14 +7,6 @@
 <a href="https://www.instagram.com/elveen13/" target="blank"><img align="center" src="https://img.shields.io/badge/elveen13-black?logo=instagram" alt="elveen owns you" /></a>
 </p>
 
-<p align="center">
-<a href="https://discord.gg/akrep" target="blank"><img align="center" src="https://img.shields.io/badge/akrep-black?logo=PayPal" alt="elveen owns you" /></a>
-</p>
-
-<p align="center">
-<a href="https://discord.gg/barakah" target="blank"><img align="center" src="https://img.shields.io/badge/barakah-black?logo=adidas" alt="elveen owns you" /></a>
-</p>
-
 <!--
 **554960/554960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
