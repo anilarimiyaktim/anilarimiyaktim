@@ -1,4 +1,4 @@
-https://img.shields.io/badge/Profile%20views-247%2C504-blue
+<a href="https://img.shields.io/badge/Profile%20views-247%2C504-blue" target="blank"><img align="center" src="https://img.shields.io/badge/Profile%20views-247%2C504-blue" alt="elveen owns you" /></a>
 
 <h1 align="center">we don't know much about them, but we're sure elveen is great.</h1>
 
