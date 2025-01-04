@@ -2,7 +2,7 @@
 
 <h1 align="center">we don't know much about them, but we're sure elveen is great.</h1>
 
-<h3 align="center">📩 elveen1337@proton.me 📩</h3>
+<h3 align="center">📩 contact@elveen.me 📩</h3>
  
 <p align="center">
 <a href="https://www.instagram.com/elveen13/" target="blank"><img align="center" src="https://img.shields.io/badge/elveen13-black?logo=instagram" alt="elveen owns you" /></a>
