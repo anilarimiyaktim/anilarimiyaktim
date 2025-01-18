@@ -2,6 +2,22 @@
 
 <h1 align="center">we don't know much about them, but we're sure elveen is great.</h1>
 
+
+```python
+┌──(elveen@root)-[~/]
+└─$ cat elveen.py
+
+class elveen:
+
+def  __social__(self):
+ self.gh = "https://github.com/elveenmyers"
+ self.dc = "elveen"
+ self.ig = "https://www.instagram.com/elveen13"
+  
+ ┌──(elveen@root)-[~/]
+ └─$
+```
+
 <h3 align="center">📩 contact@elveen.me 📩</h3>
  
 <p align="center">
