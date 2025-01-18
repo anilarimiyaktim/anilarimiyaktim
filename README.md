@@ -25,7 +25,7 @@ def  __social__(self):
 </p>
 
 <p align="center">
-<a href="https://discord.gg/juventus" target="blank"><img align="center" src="https://img.shields.io/badge/cord-black?logo=adidas" alt="elveen owns you" /></a>
+<a href="https://discord.gg/barakah" target="blank"><img align="center" src="https://img.shields.io/badge/barakah-black?logo=adidas" alt="elveen owns you" /></a>
 </p>
 
 <!--
