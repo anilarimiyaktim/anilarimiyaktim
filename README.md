@@ -11,7 +11,7 @@ class elveen:
 
 def  __social__(self):
  self.dc = "elveen"
- self.ig = "https://www.instagram.com/elveen13"
+ self.ig = "elveen13"
   
  ┌──(elveen@root)-[~/]
  └─$
