@@ -10,7 +10,6 @@
 class elveen:
 
 def  __social__(self):
- self.gh = "https://github.com/Iyrica"
  self.dc = "elveen"
  self.ig = "https://www.instagram.com/elveen13"
   
