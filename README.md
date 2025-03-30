@@ -20,11 +20,11 @@ def  __social__(self):
 <h3 align="center">📩 contact@elveen.me 📩</h3>
  
 <p align="center">
-<a href="https://www.instagram.com/elveen1312/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-black?logo=instagram" alt="elveen owns you" /></a>
+<a href="https://www.instagram.com/elveen1312/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-black?logo=instagram" alt="instagram" /></a>
 </p>
 
 <p align="center">
-<a href="https://discord.gg/1312" target="blank"><img align="center" src="https://img.shields.io/badge/1312-black?logo=adidas" alt="elveen owns you" /></a>
+<a href="https://discord.gg/1312" target="blank"><img align="center" src="https://img.shields.io/badge/1312-black?logo=adidas" alt="$" /></a>
 </p>
 
 <!--
