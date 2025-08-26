@@ -10,7 +10,7 @@
 class elveen:
 
 def  __social__(self):
- self.dc = "elveen"
+ self.dc = "16x5"
  self.ig = "elveen1312"
   
  ┌──(elveen@root)-[~/]
