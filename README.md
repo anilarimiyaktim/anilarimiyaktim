@@ -10,8 +10,8 @@
 class elveen:
 
 def  __social__(self):
- self.dc = "16x5"
- self.ig = "elveen1312"
+ self.dc = "elveen"
+ self.ig = "elveenw"
   
  ┌──(elveen@root)-[~/]
  └─$
@@ -20,7 +20,7 @@ def  __social__(self):
 <h3 align="center">📩 contact@elveen.me 📩</h3>
  
 <p align="center">
-<a href="https://www.instagram.com/elveen1312/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-black?logo=instagram" alt="instagram" /></a>
+<a href="https://www.instagram.com/elveenw/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-black?logo=instagram" alt="instagram" /></a>
 </p>
 
 <p align="center">
